@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/tegrus-1-better-everyday-Zbqw6fd71h85pOtsvX" width="100"/>
+</div>
 
 <!--
 **thale154/thale154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
