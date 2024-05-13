@@ -27,8 +27,23 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :hammer_and_wrench: Languages and Tools :
 
-- s
+- Python
+- SQL
+- PowerBI, Google Looker Studio, Tableau
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thale154&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thale154&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: My Data Projects :
+
+- [Data Project Portfolio](https://github.com/thale154/DataProject)
 
 <!-- Sample
 **thale154/thale154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
