@@ -51,7 +51,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - [Lichess](https://lichess.org/coach/lttltt1)
 - [FIDE profile](https://ratings.fide.com/profile/12402192)
 
-<!-- Sample
+<!-- Sample 
 **thale154/thale154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
