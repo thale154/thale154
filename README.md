@@ -44,6 +44,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :writing_hand: My Data Projects :
 
 - [Data Project Portfolio](https://github.com/thale154/DataProject)
+- [LeetCode & HackerRank practice](https://github.com/thale154/Practice-Online)
 
 ---
 
